@@ -1,3 +1,4 @@
+export const IMAGE_URL = 'https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images'
 export const BASE_URL = 'https://nonamejon-mediastorage.hf.space'
 export const GAP = '7px'
 
@@ -5,7 +6,7 @@ export const data = [
   {
     id: 'omniscient-reader',
     name: "Omniscient Reader",
-    poster: 'omniscient-reader.jpg',
+    poster: `${IMAGE_URL}/omniscient-reader.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU` },
@@ -32,7 +33,7 @@ export const data = [
   {
     id: 'overgeared',
     name: 'Overgeared',
-    poster: 'overgeared.jpg',
+    poster: `${IMAGE_URL}/overgeared.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o` },
@@ -48,7 +49,7 @@ export const data = [
   // {
   //   id: 'omniscient-reader-ru',
   //   name: "Всеведущий читатель",
-  //   poster: 'omniscient-reader.jpg',
+  //   poster: `omniscient-reader.avif`,
   //   parts: [
   //     { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKsVVUAACYvA/weHDb015DvxNhJhjtBYcGD8uXUFmH7eiBlkRwZFSLtg` },
   //     { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKsVVUAACYvQ/KgZXnKLM6EPvhYtnrF3X6Nz9J5MKNpySjCsc6VzW6Kc` },
@@ -57,7 +58,7 @@ export const data = [
   {
     id: 'solo-leveling',
     name: 'Solo Leveling',
-    poster: 'solo-leveling.jpg',
+    poster: `${IMAGE_URL}/solo-leveling.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKmS9yAACfZA/nISQXQ8p6jTh3eBx76xbN6aMQPfxtftMwsHujO_5l4Q` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKmS9yAACfZg/NyKPYORLSLXcY2Me7kWh4VEDSPMiyvZ_KL_izvrFXMA` },
@@ -84,7 +85,7 @@ export const data = [
   {
     id: 'solo-leveling-ragnarok',
     name: 'Solo Leveling: Ragnarok',
-    poster: 'solo-leveling-ragnarok.jpg',
+    poster: `${IMAGE_URL}/solo-leveling-ragnarok.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKoXlHAACcDw/Jtm60Kq0wzoWpYAbvO-LcwQfnqvhLUUOQ3j_rNoQR8A` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKoXlHAACcEA/K3ophIhDsT9bVTvZDr2dBcEgQSWhA83hzFfD8CcjBq4` },
@@ -98,7 +99,7 @@ export const data = [
   {
     id: 'the-boxer',
     name: 'The Boxer',
-    poster: 'the-boxer.jpg',
+    poster: `${IMAGE_URL}/the-boxer.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKuHHJAACW8w/XRrOdk-vUKvb0lzj4d11J3fdvvK7A5qAsFiVHRv7irg` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKuHHJAACW9A/6TMMn8XycHZ2LiFIghQOVk9vnQ37Ac3sr9Z970dGRHg` },
@@ -120,7 +121,7 @@ export const data = [
   {
     id: 'lookism',
     name: 'Lookism',
-    poster: 'lookism.jpg',
+    poster: `${IMAGE_URL}/lookism.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKqXlHAAChBw/-M5aemIUKjJWYpPBSBtcjs7dDd5A_YRejA3awLhsRKc` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKqXlHAAChCQ/D3y-10D12yn9jAJ-kdNHplNW2szs_66NNGJolX74QJc` },
@@ -166,7 +167,7 @@ export const data = [
   {
     id: 'tower-of-god',
     name: 'Tower of God',
-    poster: 'tower-of-god.jpg',
+    poster: `${IMAGE_URL}/tower-of-god.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJKuHHJAACXLg/iJd-tXoVCnCKc8TH7EUviKQniRLyiLktXkOXxtV7SEk` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJKuHHJAACXMA/OKrjMMk1Jt5nR1Q2IpyM_1U1rQcMUKiHcHkKGXlNv-E` },
@@ -233,7 +234,7 @@ export const data = [
   {
     id: 'the-beginning-after-the-end',
     name: 'TBATE',
-    poster: 'the-beginning-after-the-end.jpg',
+    poster: `${IMAGE_URL}/the-beginning-after-the-end.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJK0O07AACN_w/gFIAPW1rXGLIVknEepOgEEE5qI8UCnRasuxrlQHSATI` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJK0O07AACOAA/9heASU-4AQsx2CxfJ9-4PsRyN6ABVCRtR2Fi5LGAqBM` },
@@ -260,7 +261,7 @@ export const data = [
   {
     id: 'viral-hit',
     name: 'Viral Hit',
-    poster: 'viral-hit.jpg',
+    poster: `${IMAGE_URL}/viral-hit.avif`,
     parts: [
       { id: 'chunk-1', name: 'Chunk 1', url: `${BASE_URL}/wt/AAAAAacs6bJK0QUJAACNIw/hQ3-jhA1kxidBrhnskh7VcI8R7eUAcVsoMGycSRW6wU` },
       { id: 'chunk-2', name: 'Chunk 2', url: `${BASE_URL}/wt/AAAAAacs6bJK0QUJAACNKg/l2VKvErYImdUAG0q1HF8sa81fBAnvMUDbcgw1N489-U` },
@@ -291,7 +292,7 @@ export const data = [
   {
     id: 'naruto',
     name: 'Naruto',
-    poster: 'naruto.jpg',
+    poster: `${IMAGE_URL}/naruto.avif`,
     gap: `${GAP}`,
     parts: [
       { id: 'volume-1', name: 'Volume 1', url: `${BASE_URL}/wt/AAAAAacs6bJKwO07AACPBw/pOp0kfBKMWWn-D9hogFdJLZuiC8kE3RXn7JHOD8KOP8` },
@@ -319,7 +320,7 @@ export const data = [
   {
     id: 'boruto',
     name: 'Boruto',
-    poster: 'boruto.jpg',
+    poster: `${IMAGE_URL}/boruto.avif`,
     gap: `${GAP}`,
     parts: [
       { id: 'volume-1', name: 'Volume 1', url: `${BASE_URL}/wt/AAAAAacs6bJK0QUJAACMBg/8tEDxGCfNkVODiRiPkYQrm-gF9IagP37q-dAeDr1laY` },
@@ -347,7 +348,7 @@ export const data = [
   {
     id: 'jujutsu-kaisen',
     name: 'Jujutsu Kaisen',
-    poster: 'jujutsu-kaisen.jpg',
+    poster: `${IMAGE_URL}/jujutsu-kaisen.avif`,
     gap: `${GAP}`,
     parts: [
       { id: 'volume-0', name: 'Volume 0', url: `${BASE_URL}/wt/AAAAAacs6bJK0OhrAACXvg/ma5_Cs3aks8Iu_nBOScqhceQFdMyfsTSC1B9hrLiOng` },
@@ -387,7 +388,7 @@ export const data = [
   {
     id: 'chainsaw-man',
     name: 'Chainsaw Man',
-    poster: 'chainsaw-man.jpg',
+    poster: `${IMAGE_URL}/chainsaw-man.avif`,
     gap: `${GAP}`,
     parts: [
       { id: 'volume-1', name: 'Volume 1', url: `${BASE_URL}/wt/AAAAAacs6bJK0QUJAACNeA/YCqV2K_beOk3TU_u1lJNPgGPSYHIBLBJeU_sx3Q1Jbs` },
@@ -415,7 +416,7 @@ export const data = [
   {
     id: 'dandadan',
     name: 'Dandadan',
-    poster: 'dandadan.jpg',
+    poster: `${IMAGE_URL}/dandadan.avif`,
     gap: `${GAP}`,
     parts: [
       { id: 'volume-1', name: 'Volume 1', url: `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACh8w/pcBNYbpu70EQXKBQIvmbq2PHJiNpirczwAZ-YWnA6Ks` },
@@ -440,7 +441,7 @@ export const data = [
   {
     id: 'blue-lock',
     name: 'Blue Lock',
-    poster: 'blue-lock.jpg',
+    poster: `${IMAGE_URL}/blue-lock.avif`,
     gap: `${GAP}`,
     parts: [
       { id: 'volume-1', name: 'Volume 1', url: `${BASE_URL}/wt/AAAAAacs6bJK0QUJAACMPw/Yl946TzBFoPi1MWFlp4myLaVrV0DRGaBGbxUwB1FSX4` },
