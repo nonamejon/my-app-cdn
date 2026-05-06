@@ -1,8 +1,7 @@
 {
   "settings": {
     "IMAGE_URL": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images",
-    "BASE_URL": "https://nonamejon-mediastorage.hf.space",
-    "GAP": "7px"
+    "BASE_URL": "https://nonamejon-mediastorage.hf.space"
   },
   "content": [
     {
@@ -10,8 +9,8 @@
       "name": "Avatar The Last Airbender",
       "poster": "atla.avif",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s1e2", "name": "Season 1 Episode 2", "path": "/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k` },
+        { "id": "s1e2", "name": "Season 1 Episode 2", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU` }
       ]
     },
     {
@@ -19,8 +18,8 @@
       "name": "Avatar The Legend of Korra",
       "poster": "atlok.avif",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e1", "name": "Season 2 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k` },
+        { "id": "s2e1", "name": "Season 2 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU` }
       ]
     }
   ]
