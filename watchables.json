@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "id": "atla",
-      "name": "Avatar The Last Airbender",
+      "id": "lookism",
+      "name": "Lookism",
       "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/lookism.avif",
         "content": [
         { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
@@ -10,48 +10,48 @@
       ]
     },
     {
-      "id": "atlok",
-      "name": "Avatar The Legend of Korra",
+      "id": "lookism",
+      "name": "Lookism",
       "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/lookism.avif",
-      "content": [
+        "content": [
         { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e1", "season": "2", "name": "Season 2 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e2", "season": "1", "name": "Season 1 Episode 2", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
       ]
     },
     {
-      "id": "atlok",
-      "name": "Avatar The Legend of Korra",
+      "id": "lookism",
+      "name": "Lookism",
       "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/lookism.avif",
-      "content": [
+        "content": [
         { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e1", "season": "2", "name": "Season 2 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e2", "season": "1", "name": "Season 1 Episode 2", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
       ]
     },
     {
-      "id": "atlok",
-      "name": "Avatar The Legend of Korra",
+      "id": "lookism",
+      "name": "Lookism",
       "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/lookism.avif",
-      "content": [
+        "content": [
         { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e1", "season": "2", "name": "Season 2 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e2", "season": "1", "name": "Season 1 Episode 2", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
       ]
     },
     {
-      "id": "atlok",
-      "name": "Avatar The Legend of Korra",
+      "id": "lookism",
+      "name": "Lookism",
       "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/lookism.avif",
-      "content": [
+        "content": [
         { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e1", "season": "2", "name": "Season 2 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e2", "season": "1", "name": "Season 1 Episode 2", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
       ]
     },
     {
-      "id": "atlok",
-      "name": "Avatar The Legend of Korra",
+      "id": "lookism",
+      "name": "Lookism",
       "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/lookism.avif",
-      "content": [
+        "content": [
         { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e1", "season": "2", "name": "Season 2 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e2", "season": "1", "name": "Season 1 Episode 2", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
       ]
     }
   ]
