@@ -7,7 +7,7 @@
     {
       "id": "atla",
       "name": "Avatar The Last Airbender",
-      "poster": "atla.avif",
+      "poster": `${IMAGE_URL}/atla.avif`,
       "parts": [
         { "id": "s1e1", "name": "Season 1 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k` },
         { "id": "s1e2", "name": "Season 1 Episode 2", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU` }
@@ -16,7 +16,7 @@
     {
       "id": "atla",
       "name": "Avatar The Legend of Korra",
-      "poster": "atlok.avif",
+      "poster": `${IMAGE_URL}/atlok.avif`,
       "parts": [
         { "id": "s1e1", "name": "Season 1 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k` },
         { "id": "s2e1", "name": "Season 2 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU` }
