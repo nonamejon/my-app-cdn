@@ -1,25 +1,21 @@
 {
-  "settings": {
-    "IMAGE_URL": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images",
-    "BASE_URL": "https://nonamejon-mediastorage.hf.space"
-  },
-  "content": [
+  "data": [
     {
       "id": "atla",
       "name": "Avatar The Last Airbender",
-      "poster": `${IMAGE_URL}/atla.avif`,
-      "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k` },
-        { "id": "s1e2", "name": "Season 1 Episode 2", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU` }
+      "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/atla.avif",
+        "content": [
+        { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
+        { "id": "s1e2", "season": "1", "name": "Season 1 Episode 2", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
       ]
     },
     {
-      "id": "atla",
+      "id": "atlok",
       "name": "Avatar The Legend of Korra",
-      "poster": `${IMAGE_URL}/atlok.avif`,
-      "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k` },
-        { "id": "s2e1", "name": "Season 2 Episode 1", "path": `${BASE_URL}/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU` }
+      "poster": "https://cdn.jsdelivr.net/gh/nonamejon/my-app-cdn@main/images/atlok.avif",
+      "content": [
+        { "id": "s1e1", "season": "1", "name": "Season 1 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
+        { "id": "s2e1", "season": "2", "name": "Season 2 Episode 1", "path": "https://nonamejon-mediastorage.hf.space/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
       ]
     }
   ]
