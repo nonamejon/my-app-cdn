@@ -1,0 +1,24 @@
+{
+  "base_url": "https://nonamejon-mediastorage.hf.space",
+  "image_url": "https://raw.githubusercontent.com/nonamejon/my-app-cdn/refs/heads/main/images",
+  "content": [
+    {
+      "id": "omniscient-reader",
+      "name": "Omniscient Reader",
+      "poster": "omniscient-reader.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+      ]
+    },
+    {
+      "id": "overgeared",
+      "name": "Overgeared",
+      "poster": "overgeared.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+      ]
+    }
+  ]
+}
