@@ -19,6 +19,78 @@
         { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
         { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
       ]
+    },
+    {
+      "id": "solo-leveling",
+      "name": "Solo Leveling",
+      "poster": "solo-leveling.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+      ]
+    },
+    {
+      "id": "solo-leveling-ragnarok",
+      "name": "solo-leveling-ragnarok",
+      "poster": "solo-leveling-ragnarok.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+      ]
+    },
+    {
+      "id": "lookism",
+      "name": "lookism",
+      "poster": "lookism.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+      ]
+    },
+    {
+      "id": "overgeared",
+      "name": "Overgeared",
+      "poster": "overgeared.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+      ]
+    },
+    {
+      "id": "viral-hit",
+      "name": "viral-hit",
+      "poster": "viral-hit.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+      ]
+    },
+    {
+      "id": "tower-of-god",
+      "name": "tower-of-god",
+      "poster": "tower-of-god.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+      ]
+    },
+    {
+      "id": "the-boxer",
+      "name": "the-boxer",
+      "poster": "the-boxer.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+      ]
+    },
+    {
+      "id": "naruto",
+      "name": "naruto",
+      "poster": "naruto.avif",
+      "parts": [
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+      ]
     }
   ]
 }
