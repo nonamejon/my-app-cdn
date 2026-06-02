@@ -38,8 +38,8 @@
       "poster": "lookism.avif",
       "type": "Collection",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" }
       ]
     },
     {
@@ -48,8 +48,8 @@
       "poster": "overgeared.avif",
       "type": "Animation",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
-        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" }
       ]
     },
     {
@@ -58,8 +58,8 @@
       "poster": "tower-of-god.avif",
       "type": "Animation",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
-        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" }
       ]
     },
     {
@@ -68,8 +68,8 @@
       "poster": "naruto.avif",
       "type": "Animation",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
-        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAUgNNwNIyV5WAACkOA/gWUKi1dLhPfdzlj-YuK5i3hfdvkkzamDjIQGYzeV62o" }
       ]
     }
   ]
