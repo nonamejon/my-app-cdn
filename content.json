@@ -18,8 +18,8 @@
       "poster": "solo-leveling.avif",
       "type": "Series",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKqXlHAACgzA/5sDeSTdWXVb0bqOslB29OEXmm4393-cab66iLMdr05k" },
-        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKqXlHAACgzQ/f8qdA5emyjuZgYNM35AMcBsaLZJv5Q48zlliHQr39RU" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAUgNNwNJSepoAACO5A/Bqq-gM4JtvFksFYSYhAfL2VThptD1hBCfTC6k5tZ9rA" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAUgNNwNJSepoAACO5g/BDldZurrADwVEi9jF8lvhLJXsgjx2QLfBbl5DdutR_k" }
       ]
     },
     {
@@ -28,8 +28,8 @@
       "poster": "solo-leveling-ragnarok.avif",
       "type": "Animation",
       "parts": [
-        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAacs6bJKoFCPAACb4Q/e_AkGrjCkAIq5o3BAFBstGzY1xQUCtjxjdtGAl4NFNw" },
-        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAacs6bJKoFCPAACb4w/JiXkRDozXU4WZDaTjdxUrHYOAG4Cb3N8ETUC_zARx0o" }
+        { "id": "s1e1", "name": "Season 1 Episode 1", "path": "/wt/AAAAAUgNNwNJSepoAACO5A/Bqq-gM4JtvFksFYSYhAfL2VThptD1hBCfTC6k5tZ9rA" },
+        { "id": "s2e3", "name": "Season 2 Episode 3", "path": "/wt/AAAAAUgNNwNJSepoAACO5g/BDldZurrADwVEi9jF8lvhLJXsgjx2QLfBbl5DdutR_k" }
       ]
     },
     {
